@@ -1,0 +1,1 @@
+export const BUY_DRUG = 'BUY_DRUGS' 
